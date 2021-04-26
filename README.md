@@ -4,3 +4,4 @@ Basics of python -- Practice Exercise 01
 Lab 02 - Programming costructsin python-hands-on practice
 Lab-04- Operations on Tuples and list: hands on practice
 Lab6- dictionaries
+Lab 6.1 ---sets
